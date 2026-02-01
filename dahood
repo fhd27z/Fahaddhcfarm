@@ -1,4 +1,4 @@
-- Fahad Made This And Leaked This
+-- Fahad Made This And Leaked This
 getgenv().Ohio = { 
     Fps = 120, --// anything above 3 should be good, 10+ if you want to make the most cash.
     Saver = false, --// black screen to save usage, shows wallet, timer, broken atms, profit.
